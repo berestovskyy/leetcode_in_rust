@@ -21,9 +21,7 @@ impl Solution {
             let mut dst = round;
             loop {
                 dst = (dst + k) % nums.len();
-                let t = nums[dst];
-                nums[dst] = tmp;
-                tmp = t;
+                std::mem::swap(&mut nums[dst], &mut tmp);
                 changes += 1;
                 if dst == round {
                     break;
