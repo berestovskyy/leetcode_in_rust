@@ -1,4 +1,6 @@
 LeetCode in Rust
 ================
 
-[All Problems](src/README) | [Daily Problems](src/DAILY) | [Study Plan](src/STUDY_PLAN)
+[All Problems](src/README.md) | [Daily Problems](src/DAILY.md) | [Study Plan](src/STUDY_PLAN.md)
+
+LeetCode problems solved in Rust.
