@@ -33,7 +33,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(
             Solution::is_valid_serialization("9,3,4,#,#,1,#,#,2,#,6,#,#".into()),
             true
@@ -43,7 +43,7 @@ mod tests {
     }
 
     #[bench]
-    fn is_valid_serialization(b: &mut Bencher) {
+    fn single(b: &mut Bencher) {
         b.iter(|| Solution::is_valid_serialization("9,3,4,#,#,1,#,#,2,#,6,#,#".into()));
     }
 }

@@ -15,3 +15,4 @@ Daily Problems
 7. 2021-10-24 [Problem 222. Count Complete Tree Nodes (Medium)](problem_0222/)
 8. 2021-10-25 [Problem 155. Min Stack (Easy)](problem_0155/)
 9. 2021-10-26 [Problem 226. Invert Binary Tree (Easy)](problem_0226/)
+10. 2021-10-27 [Problem 75. Sort Colors (Medium)](problem_0075/)

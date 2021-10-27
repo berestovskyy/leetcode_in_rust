@@ -51,7 +51,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         let mut s = MinStack::new();
         s.push(-2);
         s.push(0);
@@ -63,9 +63,9 @@ mod tests {
     }
 
     #[bench]
-    fn min_stack_mix_1k(b: &mut Bencher) {
+    fn mix_1k(b: &mut Bencher) {
+        let mut s = MinStack::new();
         b.iter(|| {
-            let mut s = MinStack::new();
             for i in 0..1000 {
                 s.push(i);
                 assert_eq!(s.top(), i);
@@ -79,7 +79,7 @@ mod tests {
         });
     }
     #[bench]
-    fn min_stack_new_1k(b: &mut Bencher) {
+    fn new_1k(b: &mut Bencher) {
         b.iter(|| {
             for i in 0..1000 {
                 let mut s = MinStack::new();
@@ -88,7 +88,7 @@ mod tests {
         });
     }
     #[bench]
-    fn min_stack_push_1k(b: &mut Bencher) {
+    fn new_push_1k(b: &mut Bencher) {
         b.iter(|| {
             let mut s = MinStack::new();
             for i in 0..1000 {
@@ -98,7 +98,7 @@ mod tests {
         });
     }
     #[bench]
-    fn min_stack_push_pop_1k(b: &mut Bencher) {
+    fn push_pop_1k(b: &mut Bencher) {
         b.iter(|| {
             let mut s = MinStack::new();
             for i in 0..1000 {
@@ -109,7 +109,7 @@ mod tests {
         });
     }
     #[bench]
-    fn min_stack_push_top_1k(b: &mut Bencher) {
+    fn push_top_1k(b: &mut Bencher) {
         b.iter(|| {
             let mut s = MinStack::new();
             for i in 0..1000 {
@@ -120,7 +120,7 @@ mod tests {
         });
     }
     #[bench]
-    fn min_stack_push_get_min_1k(b: &mut Bencher) {
+    fn push_get_min_1k(b: &mut Bencher) {
         b.iter(|| {
             let mut s = MinStack::new();
             for i in 0..1000 {

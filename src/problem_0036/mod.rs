@@ -97,7 +97,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(
             Solution::is_valid_sudoku(vec![
                 vec!['5', '3', '.', '.', '7', '.', '.', '.', '.'],
@@ -129,7 +129,7 @@ mod tests {
     }
 
     #[bench]
-    fn is_valid_sudoku(b: &mut Bencher) {
+    fn single(b: &mut Bencher) {
         b.iter(|| {
             Solution::is_valid_sudoku(vec![
                 vec!['5', '3', '.', '.', '7', '.', '.', '.', '.'],

@@ -31,14 +31,14 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::two_sum(vec![2, 7, 11, 15], 9), vec![1, 2]);
         assert_eq!(Solution::two_sum(vec![2, 3, 4], 6), vec![1, 3]);
         assert_eq!(Solution::two_sum(vec![-1, 0], -1), vec![1, 2]);
     }
 
     #[bench]
-    fn two_sum_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in -500..500 {
             v.push(i);

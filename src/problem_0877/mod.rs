@@ -36,13 +36,13 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::stone_game(vec![5, 3, 4, 5]), true);
         assert_eq!(Solution::stone_game(vec![3, 7, 2, 3]), true);
     }
 
     #[bench]
-    fn stone_game_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in -500..500 {
             v.push(i);

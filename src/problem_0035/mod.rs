@@ -32,7 +32,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::search_insert(vec![1, 3, 5, 6], 5), 2);
         assert_eq!(Solution::search_insert(vec![1, 3, 5, 6], 2), 1);
         assert_eq!(Solution::search_insert(vec![1, 3, 5, 6], 7), 4);
@@ -41,7 +41,7 @@ mod tests {
     }
 
     #[bench]
-    fn search_insert_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000 {
             v.push(i);

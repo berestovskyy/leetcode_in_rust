@@ -29,7 +29,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         let mut v = vec![0, 1, 0, 3, 12];
         Solution::move_zeroes(&mut v);
         assert_eq!(v, vec![1, 3, 12, 0, 0]);
@@ -40,7 +40,7 @@ mod tests {
     }
 
     #[bench]
-    fn move_zeros_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in -500..500 {
             v.push(i);

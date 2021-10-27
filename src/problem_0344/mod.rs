@@ -28,17 +28,18 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         let mut v = vec!['h', 'e', 'l', 'l', 'o'];
         Solution::reverse_string(&mut v);
         assert_eq!(v, vec!['o','l','l','e','h']);
+
         let mut v = vec!['H','a','n','n','a','h'];
         Solution::reverse_string(&mut v);
         assert_eq!(v, vec!['h','a','n','n','a','H']);
     }
 
     #[bench]
-    fn reverse_string_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000/4 {
             v.push('a');

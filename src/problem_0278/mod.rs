@@ -41,7 +41,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         let s = Solution { bad_version: 4 };
         assert_eq!(s.first_bad_version(5), 4);
         let s = Solution { bad_version: 1 };
@@ -49,7 +49,7 @@ mod tests {
     }
 
     #[bench]
-    fn first_bad_version_1k(b: &mut Bencher) {
+    fn version_1k(b: &mut Bencher) {
         let s = Solution { bad_version: 500 };
         test::black_box(&s);
         b.iter(|| s.first_bad_version(1000));

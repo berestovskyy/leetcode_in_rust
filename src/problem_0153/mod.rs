@@ -33,14 +33,14 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::find_min(vec![3, 4, 5, 1, 2]), 1);
         assert_eq!(Solution::find_min(vec![4, 5, 6, 7, 0, 1, 2]), 0);
         assert_eq!(Solution::find_min(vec![11, 13, 15, 17]), 11);
     }
 
     #[bench]
-    fn find_min_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000 {
             v.push(i);
@@ -50,7 +50,7 @@ mod tests {
     }
 
     #[bench]
-    fn find_min_1k_rotated(b: &mut Bencher) {
+    fn vec_1k_rotated(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 500..1_000 {
             v.push(i);

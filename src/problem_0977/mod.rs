@@ -34,7 +34,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(
             Solution::sorted_squares(vec![-4, -1, 0, 3, 10]),
             vec![0, 1, 9, 16, 100]
@@ -46,7 +46,7 @@ mod tests {
     }
 
     #[bench]
-    fn sorted_squares_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in -500..500 {
             v.push(i);

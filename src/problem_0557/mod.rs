@@ -40,7 +40,7 @@ mod tests {
     }
 
     #[bench]
-    fn reverse_words_1k(b: &mut Bencher) {
+    fn string_1k(b: &mut Bencher) {
         let mut s = String::with_capacity(1_000);
         for i in 0..1_000 / 5 {
             s.push('a');

@@ -32,13 +32,13 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::search(vec![-1, 0, 3, 5, 9, 12], 9), 4);
         assert_eq!(Solution::search(vec![-1, 0, 3, 5, 9, 12], 2), -1);
     }
 
     #[bench]
-    fn search_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000 {
             v.push(i);

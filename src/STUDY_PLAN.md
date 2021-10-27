@@ -15,3 +15,4 @@ Study Plan: Algorithm I
 7. [Problem 167. Two Sum II - Input array is sorted (Easy)](problem_0167/)
 8. [Problem 344. Reverse String (Easy)](problem_0344/)
 9. [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
+10. [Problem 876. Middle of the Linked List (Easy)](problem_0876/)

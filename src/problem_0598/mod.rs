@@ -30,7 +30,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(Solution::max_count(3, 3, vec![vec![2, 2], vec![3, 3]]), 4);
         assert_eq!(
             Solution::max_count(
@@ -56,7 +56,7 @@ mod tests {
     }
 
     #[bench]
-    fn max_count_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000 / 10 {
             v.push(vec![2, 2]);

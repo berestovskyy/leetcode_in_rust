@@ -40,7 +40,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         let mut v = vec![1, 2, 3, 4, 5, 6, 7];
         Solution::rotate(&mut v, 3);
         assert_eq!(v, vec![5, 6, 7, 1, 2, 3, 4]);
@@ -50,7 +50,7 @@ mod tests {
     }
 
     #[bench]
-    fn rotate_1k(b: &mut Bencher) {
+    fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
         for i in 0..1_000 {
             v.push(i);
