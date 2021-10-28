@@ -4,7 +4,7 @@
 //
 // 3ms/6.5MB
 // Space complexity: O(n)
-// Runtime complexity: avg: O(1)
+// Runtime complexity: O(1)
 //
 // test problem_0155::tests::min_stack_mix_1k          ... bench:       7,054 ns/iter (+/- 231)
 // test problem_0155::tests::min_stack_new_1k          ... bench:       2,732 ns/iter (+/- 52)

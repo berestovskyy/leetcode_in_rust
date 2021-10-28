@@ -4,7 +4,7 @@
 //
 // 0ms/2MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(log n)
+// Runtime complexity: O(log n)
 //
 // test problem_0153::tests::find_min_1k               ... bench:         103 ns/iter (+/- 16)
 // test problem_0153::tests::find_min_1k_rotated       ... bench:         102 ns/iter (+/- 7)

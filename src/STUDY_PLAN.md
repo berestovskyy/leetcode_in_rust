@@ -16,3 +16,6 @@ Study Plan: Algorithm I
 8. [Problem 344. Reverse String (Easy)](problem_0344/)
 9. [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
 10. [Problem 876. Middle of the Linked List (Easy)](problem_0876/)
+11. [Problem 19. Remove Nth Node From End of List (Medium)](problem_0019/)
+12. [Problem 3. Longest Substring Without Repeating Characters (Medium)](problem_0003/)
+13. [Problem 567. Permutation in String (Medium)](problem_0567/)

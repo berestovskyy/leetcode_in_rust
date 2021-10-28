@@ -4,7 +4,7 @@
 //
 // 0ms/2.2MB
 // Space complexity: O(n)
-// Runtime complexity: avg: O(n)
+// Runtime complexity: O(n)
 //
 // test problem_0557::tests::reverse_words_1k         ... bench:       2,937 ns/iter (+/- 355)
 //
@@ -31,7 +31,7 @@ mod tests {
     use test::Bencher;
 
     #[test]
-    fn all() {
+    fn example() {
         assert_eq!(
             Solution::reverse_words("Let's take LeetCode contest".into()),
             "s'teL ekat edoCteeL tsetnoc"

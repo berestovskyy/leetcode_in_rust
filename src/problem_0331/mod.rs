@@ -4,7 +4,7 @@
 //
 // 0ms/2.1MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(n)
+// Runtime complexity: O(n)
 //
 // test problem_0331::tests::is_valid_serialization    ... bench:         110 ns/iter (+/- 5)
 //

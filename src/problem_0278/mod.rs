@@ -4,7 +4,7 @@
 //
 // 0ms/2.1MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(log n)
+// Runtime complexity: O(log n)
 //
 // test problem_0278::tests::first_bad_version_1k ... bench:       3,421 ns/iter (+/- 470)
 //

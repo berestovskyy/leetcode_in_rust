@@ -4,7 +4,7 @@
 //
 // 16ms/5.4MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(n)
+// Runtime complexity: O(n)
 //
 // test problem_0344::tests::reverse_string_1k         ... bench:         508 ns/iter (+/- 164)
 //
@@ -31,17 +31,17 @@ mod tests {
     fn example() {
         let mut v = vec!['h', 'e', 'l', 'l', 'o'];
         Solution::reverse_string(&mut v);
-        assert_eq!(v, vec!['o','l','l','e','h']);
+        assert_eq!(v, vec!['o', 'l', 'l', 'e', 'h']);
 
-        let mut v = vec!['H','a','n','n','a','h'];
+        let mut v = vec!['H', 'a', 'n', 'n', 'a', 'h'];
         Solution::reverse_string(&mut v);
-        assert_eq!(v, vec!['h','a','n','n','a','H']);
+        assert_eq!(v, vec!['h', 'a', 'n', 'n', 'a', 'H']);
     }
 
     #[bench]
     fn vec_1k(b: &mut Bencher) {
         let mut v = Vec::with_capacity(1_000);
-        for i in 0..1_000/4 {
+        for i in 0..1_000 / 4 {
             v.push('a');
             v.push('b');
             v.push('c');

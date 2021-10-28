@@ -4,7 +4,7 @@
 //
 // 0ms/2.5MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(n)
+// Runtime complexity: O(n)
 //
 // test problem_0598::tests::max_count_1k              ... bench:      58,495 ns/iter (+/- 5,314)
 //

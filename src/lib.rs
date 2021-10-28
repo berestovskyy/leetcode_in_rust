@@ -1,6 +1,8 @@
 #![feature(test)]
 #![allow(unused)]
 
+mod problem_0003;
+mod problem_0015;
 mod problem_0019;
 mod problem_0035;
 mod problem_0036;
@@ -17,6 +19,7 @@ mod problem_0283;
 mod problem_0331;
 mod problem_0344;
 mod problem_0557;
+mod problem_0567;
 mod problem_0598;
 mod problem_0704;
 mod problem_0876;

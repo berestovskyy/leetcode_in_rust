@@ -4,7 +4,7 @@
 //
 // 4ms/2.1MB
 // Space complexity: O(1)
-// Runtime complexity: avg: O(log n)
+// Runtime complexity: O(log n)
 //
 // test problem_0036::tests::is_valid_sudoku        ... bench:         659 ns/iter (+/- 36)
 //
