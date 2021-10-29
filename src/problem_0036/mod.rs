@@ -2,7 +2,7 @@
 // Problem 36. Valid Sudoku (Medium)
 // https://leetcode.com/problems/valid-sudoku/
 //
-// 4ms/2.1MB
+// 4ms (86%)/2.1MB (56%)
 // Space complexity: O(1)
 // Runtime complexity: O(log n)
 //

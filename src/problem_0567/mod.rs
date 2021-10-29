@@ -2,7 +2,7 @@
 // Problem 567. Permutation in String (Medium)
 // https://leetcode.com/problems/permutation-in-string/
 //
-// 0ms/2.2MB
+// 0ms (100%)/2.2MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

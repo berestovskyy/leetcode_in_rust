@@ -2,7 +2,7 @@
 // Problem 222. Count Complete Tree Nodes (Medium)
 // https://leetcode.com/problems/count-complete-tree-nodes/
 //
-// 4ms/4.6MB
+// 4ms (86%)/4.6MB
 // Space complexity: O(1)
 // Runtime complexity: O(log n)
 //

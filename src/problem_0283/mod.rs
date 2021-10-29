@@ -2,7 +2,7 @@
 // Problem 283. Move Zeroes (Easy)
 // https://leetcode.com/problems/move-zeroes/
 //
-// 8ms/2.1MB
+// 6ms (75%)/2.1MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

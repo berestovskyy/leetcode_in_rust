@@ -2,7 +2,7 @@
 // Problem 598. Range Addition II (Easy)
 // https://leetcode.com/problems/range-addition-ii/
 //
-// 0ms/2.5MB
+// 0ms (100%)/2.5MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

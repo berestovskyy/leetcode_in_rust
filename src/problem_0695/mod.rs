@@ -2,7 +2,7 @@
 // Problem 695. Max Area of Island (Medium)
 // https://leetcode.com/problems/max-area-of-island/
 //
-// 0ms/2.2MB
+// 0ms (100%)/2.2MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

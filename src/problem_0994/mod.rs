@@ -2,7 +2,7 @@
 // Problem 994. Rotting Oranges (Medium)
 // https://leetcode.com/problems/rotting-oranges/
 //
-// 0ms/2.1MB
+// 0ms (100%)/2.1MB
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

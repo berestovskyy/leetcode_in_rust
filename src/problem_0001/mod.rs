@@ -2,7 +2,7 @@
 // Problem 1. Two Sum (Easy)
 // https://leetcode.com/problems/two-sum/
 //
-// 0ms/2MB
+// 0ms (100%)/2MB
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

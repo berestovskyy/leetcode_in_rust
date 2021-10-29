@@ -2,7 +2,7 @@
 // Problem 977. Squares of a Sorted Array (Easy)
 // https://leetcode.com/problems/squares-of-a-sorted-array/
 //
-// 12ms/2.1MB
+// 8ms (96%)/2.3MB (40%)
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

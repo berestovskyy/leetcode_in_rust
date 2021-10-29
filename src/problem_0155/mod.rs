@@ -2,7 +2,7 @@
 // Problem 155. Min Stack (Easy)
 // https://leetcode.com/problems/min-stack/
 //
-// 3ms/6.5MB
+// 3ms (98%)/6.5MB (93%)
 // Space complexity: O(n)
 // Runtime complexity: O(1)
 //

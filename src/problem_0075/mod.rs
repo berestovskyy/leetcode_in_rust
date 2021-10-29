@@ -2,7 +2,7 @@
 // Problem 75. Sort Colors (Medium)
 // https://leetcode.com/problems/sort-colors/
 //
-// 0ms/2MB
+// 0ms (100%)/2MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

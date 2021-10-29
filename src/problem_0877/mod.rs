@@ -2,7 +2,7 @@
 // Problem 877. Stone Game (Medium)
 // https://leetcode.com/problems/stone-game/
 //
-// 0ms/2.1MB
+// 0ms (100%)/2.1MB
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

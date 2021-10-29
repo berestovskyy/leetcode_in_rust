@@ -2,7 +2,7 @@
 // Problem 154. Find Minimum in Rotated Sorted Array II (Hard)
 // https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 //
-// 0ms/2MB
+// 0ms (100%)/2MB
 // Space complexity: O(1)
 // Runtime complexity: avg: O(log n)
 //                     worst case: O(n), when all numbers are the same

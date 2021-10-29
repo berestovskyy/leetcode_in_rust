@@ -2,7 +2,7 @@
 // Problem 3. Longest Substring Without Repeating Characters (Medium)
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 //
-// 0ms/2MB
+// 0ms (100%)/2MB
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

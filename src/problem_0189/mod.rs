@@ -2,7 +2,7 @@
 // Problem 189. Rotate Array (Medium)
 // https://leetcode.com/problems/rotate-array/
 //
-// 12ms/3.6MB
+// 12ms (88%)/3.6MB (40%)
 // Space complexity: O(n)
 // Runtime complexity: O(n)
 //

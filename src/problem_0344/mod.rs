@@ -2,7 +2,7 @@
 // Problem 344. Reverse String (Easy)
 // https://leetcode.com/problems/reverse-string/
 //
-// 16ms/5.4MB
+// 16ms (94%)/5.4MB (48%)
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

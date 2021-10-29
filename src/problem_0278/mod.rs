@@ -2,7 +2,7 @@
 // Problem 278. First Bad Version (Easy)
 // https://leetcode.com/problems/first-bad-version/
 //
-// 0ms/2.1MB
+// 0ms (100%)/2.1MB
 // Space complexity: O(1)
 // Runtime complexity: O(log n)
 //

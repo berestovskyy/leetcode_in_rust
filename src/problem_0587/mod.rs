@@ -2,7 +2,7 @@
 // Problem 587. Erect the Fence (Hard)
 // https://leetcode.com/problems/erect-the-fence/
 //
-// 4ms/2.3MB
+// 4ms (100%)/2.3MB (33%)
 // Space complexity: O(n)
 // Runtime complexity: O(n²)?
 //

@@ -2,7 +2,7 @@
 // Problem 15. 3Sum (Medium)
 // https://leetcode.com/problems/3sum/
 //
-// 20ms/3.5MB
+// 20ms (97%)/3.5MB (81%)
 // Space complexity: O(1)
 // Runtime complexity: O(n * log n)
 //

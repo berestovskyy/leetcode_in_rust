@@ -2,7 +2,7 @@
 // Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)
 // https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 //
-// 0ms/2.1MB
+// 0ms (100%)/2.1MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

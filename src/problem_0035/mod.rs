@@ -2,7 +2,7 @@
 // Problem 35. Search Insert Position (Easy)
 // https://leetcode.com/problems/search-insert-position/
 //
-// 0ms/2.2MB
+// 0ms (100%)/2.2MB
 // Space complexity: O(1)
 // Runtime complexity: O(log n)
 //

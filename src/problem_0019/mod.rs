@@ -2,7 +2,7 @@
 // Problem 19. Remove Nth Node From End of List (Medium)
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 //
-// 0ms/2.1MB
+// 0ms (100%)/2.1MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //

@@ -2,7 +2,7 @@
 // Problem 704. Binary Search (Easy)
 // https://leetcode.com/problems/binary-search/
 //
-// 0ms/2.3MB
+// 0ms (100%)/2.3MB
 // Space complexity: O(1)
 // Runtime complexity: O(log n)
 //

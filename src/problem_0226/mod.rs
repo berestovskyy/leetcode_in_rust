@@ -2,7 +2,7 @@
 // Problem 226. Invert Binary Tree (Easy)
 // https://leetcode.com/problems/invert-binary-tree/
 //
-// 0ms/2.2MB
+// 0ms (100%)/2.2MB
 // Space complexity: O(1)
 // Runtime complexity: O(n)
 //
