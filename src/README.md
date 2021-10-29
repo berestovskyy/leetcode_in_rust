@@ -29,3 +29,4 @@ All Solved Problems
 21. TODO: list tests [Problem 876. Middle of the Linked List (Easy)](problem_0876/)
 22. [Problem 877. Stone Game (Medium)](problem_0877/)
 23. [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+24. [Problem 994. Rotting Oranges (Medium)](problem_0994/)
