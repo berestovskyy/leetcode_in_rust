@@ -1,6 +1,7 @@
 #![feature(test)]
 #![allow(unused)]
 
+mod problem_0001;
 mod problem_0003;
 mod problem_0015;
 mod problem_0019;
