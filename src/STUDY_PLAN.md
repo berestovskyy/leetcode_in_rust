@@ -20,3 +20,4 @@ Study Plan: Algorithm I
 12. [Problem 3. Longest Substring Without Repeating Characters (Medium)](problem_0003/)
 13. [Problem 567. Permutation in String (Medium)](problem_0567/)
 14. [Problem 733. Flood Fill (Easy)](problem_0733/)
+15. [Problem 695. Max Area of Island (Medium)](problem_0695/)
