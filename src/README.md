@@ -39,3 +39,4 @@ All Solved Problems
 31. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
 32. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
 33. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+34. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
