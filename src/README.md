@@ -36,5 +36,6 @@ All Solved Problems
 28. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) (TODO: performance)
 29. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) (TODO: list tests)
 30. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-31. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-32. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+31. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+32. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+33. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
