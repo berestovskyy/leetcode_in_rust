@@ -38,7 +38,7 @@ Output: [1,1]
 
 **Constraints:**
 
-* `1 <= n <= 3 * 104`
+* `1 <= n <= 3 * 10⁴`
 * `edges.length == n - 1`
 * `edges[i].length == 2`
 * `0 <= ai, bi < n`

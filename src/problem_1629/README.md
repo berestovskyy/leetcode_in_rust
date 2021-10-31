@@ -53,6 +53,6 @@ The longest of these was the keypress for `'a'` with duration `16`.
 * `releaseTimes.length == n`
 * `keysPressed.length == n`
 * `2 <= n <= 1000`
-* `1 <= releaseTimes[i] <= 109`
+* `1 <= releaseTimes[i] <= 10⁹`
 * `releaseTimes[i] < releaseTimes[i+1]`
 * `keysPressed` contains only lowercase English letters.

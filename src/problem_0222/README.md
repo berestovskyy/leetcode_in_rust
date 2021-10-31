@@ -32,6 +32,6 @@ Output: 1
 
 **Constraints:**
 
-* The number of nodes in the tree is in the range `[0, 5 * 104]`.
-* `0 <= Node.val <= 5 * 104`
+* The number of nodes in the tree is in the range `[0, 5 * 10⁴]`.
+* `0 <= Node.val <= 5 * 10⁴`
 * The tree is guaranteed to be complete.

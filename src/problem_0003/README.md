@@ -42,5 +42,5 @@ Output: 0
 
 **Constraints:**
 
-* `0 <= s.length <= 5 * 104`
+* `0 <= s.length <= 5 * 10⁴`
 * `s` consists of English letters, digits, symbols and spaces.

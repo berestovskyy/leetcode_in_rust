@@ -21,3 +21,4 @@ Study Plan: Algorithm I
 13. [Problem 567. Permutation in String (Medium)](problem_0567/)
 14. [Problem 733. Flood Fill (Easy)](problem_0733/)
 15. [Problem 695. Max Area of Island (Medium)](problem_0695/)
+16. [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/)

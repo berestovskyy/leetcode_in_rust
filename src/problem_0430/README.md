@@ -87,4 +87,4 @@ Merging the serialization of each level and removing trailing nulls we obtain:
 **Constraints:**
 
 * The number of Nodes will not exceed `1000`.
-* `1 <= Node.val <= 105`
+* `1 <= Node.val <= 10⁵`

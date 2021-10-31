@@ -21,7 +21,7 @@ Output: "doG gniD"
 
 **Constraints:**
 
-* `1 <= s.length <= 5 * 104`
+* `1 <= s.length <= 5 * 10⁴`
 * `s` contains printable ASCII characters.
 * `s` does not contain any leading or trailing spaces.
 * There is at least one word in `s`.

@@ -31,4 +31,4 @@ Output: []
 **Constraints:**
 
 * `0 <= nums.length <= 3000`
-* `-105 <= nums[i] <= 105`
+* `-10⁵ <= nums[i] <= 10⁵`

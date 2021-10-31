@@ -23,5 +23,5 @@ Output: ""
 
 **Constraints:**
 
-* `2 <= s.length <= 3 * 104`
+* `2 <= s.length <= 3 * 10⁴`
 * `s` consists of lowercase English letters.

@@ -32,8 +32,8 @@ Output: 9
 
 **Constraints:**
 
-* `1 <= m, n <= 4 * 104`
-* `0 <= ops.length <= 104`
+* `1 <= m, n <= 4 * 10⁴`
+* `0 <= ops.length <= 10⁴`
 * `ops[i].length == 2`
 * `1 <= ai <= m`
 * `1 <= bi <= n`
