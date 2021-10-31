@@ -34,6 +34,7 @@ mod problem_0877;
 mod problem_0899;
 mod problem_0977;
 mod problem_0994;
+mod problem_1044;
 mod problem_1629;
 
 extern crate test;

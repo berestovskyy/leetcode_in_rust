@@ -24,3 +24,4 @@ Daily Problems
 16. 2021-10-27 [Problem 75. Sort Colors (Medium)](problem_0075/)
 17. 2021-10-28 [Problem 15. 3Sum (Medium)](problem_0015/)
 18. 2021-10-28 [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+19. 2021-10-29 [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/)
