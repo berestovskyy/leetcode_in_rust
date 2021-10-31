@@ -33,7 +33,7 @@ Explanation:
 **Constraints:**
 
 * `1 <= nums.length <= 10⁵`
-* `-231 <= nums[i] <= 231 - 1`
+* `-2³¹ <= nums[i] <= 2³¹ - 1`
 * `0 <= k <= 10⁵`
 
 **Follow up:**

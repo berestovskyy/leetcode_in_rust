@@ -35,4 +35,4 @@ Output: 1
 
 **Constraints:**
 
-* `1 <= bad <= n <= 231 - 1`
+* `1 <= bad <= n <= 2³¹ - 1`
