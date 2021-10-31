@@ -23,3 +23,4 @@ Study Plan: Algorithm I
 15. [Problem 695. Max Area of Island (Medium)](problem_0695/)
 16. [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/)
 17. [Problem 116. Populating Next Right Pointers in Each Node (Medium)](problem_0116/)
+18. [Problem 542. 01 Matrix (Medium)](problem_0542/)
