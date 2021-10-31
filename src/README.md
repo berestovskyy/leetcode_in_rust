@@ -13,31 +13,39 @@ All Solved Problems
 5. `100%` [Problem 35. Search Insert Position (Easy)](problem_0035/)
 6. `86%` [Problem 36. Valid Sudoku (Medium)](problem_0036/)
 7. `100%` [Problem 75. Sort Colors (Medium)](problem_0075/)
-8. `100%` [Problem 95. Unique Binary Search Trees II (Medium)](problem_0095/) (TODO: tree comparison)
+8. `100%` [Problem 95. Unique Binary Search Trees II (Medium)](problem_0095/) \
+    TODO: tree comparison
 9. `100%` [Problem 153. Find Minimum in Rotated Sorted Array (Medium)](problem_0153/)
 10. `100%` [Problem 154. Find Minimum in Rotated Sorted Array II (Hard)](problem_0154/)
 11. `98%` [Problem 155. Min Stack (Easy)](problem_0155/)
 12. `100%` [Problem 167. Two Sum II - Input array is sorted (Easy)](problem_0167/)
 13. `88%` [Problem 189. Rotate Array (Medium)](problem_0189/)
-14. `86%` [Problem 222. Count Complete Tree Nodes (Medium)](problem_0222/) (TODO: tree comparison)
-15. `100%` [Problem 226. Invert Binary Tree (Easy)](problem_0226/) (TODO: tree comparison)
+14. `86%` [Problem 222. Count Complete Tree Nodes (Medium)](problem_0222/) \
+    TODO: tree comparison
+15. `100%` [Problem 226. Invert Binary Tree (Easy)](problem_0226/) \
+    TODO: tree comparison
 16. `100%` [Problem 278. First Bad Version (Easy)](problem_0278/)
 17. `75%` [Problem 283. Move Zeroes (Easy)](problem_0283/)
 18. `100%` [Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)](problem_0331/)
 19. `94%` [Problem 344. Reverse String (Easy)](problem_0344/)
-20. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
-21. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
-22. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
-23. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
-24. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
-25. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
-26. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
-27. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-28. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) (TODO: performance)
-29. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) (TODO: list tests)
-30. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-31. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-32. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-33. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-34. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) (TODO: review once there are enough submissions)
-35. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+20. `%` [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/) \
+    TODO: no Rust solution
+21. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
+22. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
+23. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
+24. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
+25. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
+26. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
+27. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
+28. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
+29. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+    TODO: performance
+30. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+    TODO: list tests
+31. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+32. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+33. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+34. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+35. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+    TODO: review once there are enough submissions
+36. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)

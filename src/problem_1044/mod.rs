@@ -22,8 +22,8 @@ impl Solution {
             let limit = s.len() - len + 1;
             let mut hm = std::collections::HashMap::<_, Vec<_>>::with_capacity(limit);
             for i in 0..limit {
-                let digest = (s[i] as u32) * 65536
-                    ^ (s[i + len - 1] as u32) * 256
+                let digest = ((s[i] as u32) * 65536)
+                    ^ ((s[i + len - 1] as u32) * 256)
                     ^ (s[i + (len - 1) / 2] as u32);
 
                 let indexes = hm.entry(digest).or_insert_with(|| Vec::with_capacity(4));

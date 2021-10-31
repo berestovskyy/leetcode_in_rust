@@ -23,5 +23,6 @@ Daily Problems
 15. 2021-10-26 [Problem 226. Invert Binary Tree (Easy)](problem_0226/)
 16. 2021-10-27 [Problem 75. Sort Colors (Medium)](problem_0075/)
 17. 2021-10-28 [Problem 15. 3Sum (Medium)](problem_0015/)
-18. 2021-10-28 [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-19. 2021-10-29 [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/)
+18. 2021-10-29 [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+19. 2021-10-30 [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/)
+20. 2021-10-31 [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/)
