@@ -24,4 +24,5 @@ Study Plan: Algorithm I
 16. [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/)
 17. [Problem 116. Populating Next Right Pointers in Each Node (Medium)](problem_0116/)
 18. [Problem 542. 01 Matrix (Medium)](problem_0542/)
-19. [Problem 994. 01 Matrix (Medium)](problem_0994/)
+19. [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+20. [Problem 21. Merge Two Sorted Lists (Easy)](problem_0021/)
