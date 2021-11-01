@@ -11,5 +11,4 @@
 
 struct Solution {}
 
-impl Solution {
-}
+impl Solution {}
