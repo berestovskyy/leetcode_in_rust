@@ -26,35 +26,37 @@ All Solved Problems
 14. `98%` [Problem 155. Min Stack (Easy)](problem_0155/)
 15. `100%` [Problem 167. Two Sum II - Input array is sorted (Easy)](problem_0167/)
 16. `88%` [Problem 189. Rotate Array (Medium)](problem_0189/)
-17. `86%` [Problem 222. Count Complete Tree Nodes (Medium)](problem_0222/) \
-    TODO: tree comparison
-18. `100%` [Problem 226. Invert Binary Tree (Easy)](problem_0226/) \
-    TODO: tree comparison
-19. `100%` [Problem 278. First Bad Version (Easy)](problem_0278/)
-20. `75%` [Problem 283. Move Zeroes (Easy)](problem_0283/)
-21. `100%` [Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)](problem_0331/)
-22. `94%` [Problem 344. Reverse String (Easy)](problem_0344/)
-23. `%` [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/) \
-    TODO: no Rust solution
-24. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
-25. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
-26. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
-27. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
-28. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
-29. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
-30. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
-    TODO: tree tests
-31. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
-32. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
-33. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-34. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
-    TODO: performance
-35. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+17. `100%` [Problem 206. Reverse Linked List (Easy)](problem_0206/) \
     TODO: list tests
-36. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-37. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-38. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-39. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-40. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+18. `86%` [Problem 222. Count Complete Tree Nodes (Medium)](problem_0222/) \
+    TODO: tree comparison
+19. `100%` [Problem 226. Invert Binary Tree (Easy)](problem_0226/) \
+    TODO: tree comparison
+20. `100%` [Problem 278. First Bad Version (Easy)](problem_0278/)
+21. `75%` [Problem 283. Move Zeroes (Easy)](problem_0283/)
+22. `100%` [Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)](problem_0331/)
+23. `94%` [Problem 344. Reverse String (Easy)](problem_0344/)
+24. `%` [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/) \
+    TODO: no Rust solution
+25. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
+26. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
+27. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
+28. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
+29. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
+30. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
+31. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
+    TODO: tree tests
+32. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
+33. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
+34. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
+35. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+    TODO: performance
+36. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+    TODO: list tests
+37. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+38. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+39. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+40. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+41. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-41. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+42. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
