@@ -27,3 +27,4 @@ Study Plan: Algorithm I
 19. [Problem 994. Rotting Oranges (Medium)](problem_0994/)
 20. [Problem 21. Merge Two Sorted Lists (Easy)](problem_0021/)
 21. [Problem 206. Reverse Linked List (Easy)](problem_0206/)
+22. [Problem 77. Combinations (Medium)](problem_0077/)
