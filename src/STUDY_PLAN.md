@@ -29,3 +29,4 @@ Study Plan: Algorithm I
 21. [Problem 206. Reverse Linked List (Easy)](problem_0206/)
 22. [Problem 77. Combinations (Medium)](problem_0077/)
 23. [Problem 46. Permutations (Medium)](problem_0046/)
+24. [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
