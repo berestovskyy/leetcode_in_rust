@@ -28,3 +28,4 @@ Study Plan: Algorithm I
 20. [Problem 21. Merge Two Sorted Lists (Easy)](problem_0021/)
 21. [Problem 206. Reverse Linked List (Easy)](problem_0206/)
 22. [Problem 77. Combinations (Medium)](problem_0077/)
+23. [Problem 46. Permutations (Medium)](problem_0046/)
