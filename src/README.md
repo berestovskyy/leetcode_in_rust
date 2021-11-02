@@ -56,7 +56,8 @@ All Solved Problems
 37. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
 38. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
 39. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-40. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-41. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+40. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+41. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+42. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-42. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+43. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)

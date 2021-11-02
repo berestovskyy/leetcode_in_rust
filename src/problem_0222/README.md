@@ -11,21 +11,21 @@ Design an algorithm that runs in less than `O(n)` time complexity.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: root = [1,2,3,4,5,6]
 Output: 6
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: root = []
 Output: 0
 ```
 
 **Example 3:**
 
-```bash
+```Rust
 Input: root = [1]
 Output: 1
 ```

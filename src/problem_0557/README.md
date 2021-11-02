@@ -7,14 +7,14 @@ Given a string `s`, reverse the order of characters in each word within a senten
 
 **Example 1:**
 
-```bash
+```Rust
 Input: s = "Let's take LeetCode contest"
 Output: "s'teL ekat edoCteeL tsetnoc"
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: s = "God Ding"
 Output: "doG gniD"
 ```

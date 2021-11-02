@@ -13,7 +13,7 @@ Return the modified image after performing the flood fill.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: image = [[1,1,1],[1,1,0],[1,0,1]], sr = 1, sc = 1, newColor = 2
 Output: [[2,2,2],[2,2,0],[2,0,1]]
 ```
@@ -24,7 +24,7 @@ Note the bottom corner is not colored `2`, because it is not 4-directionally con
 
 **Example 2:**
 
-```bash
+```Rust
 Input: image = [[0,0,0],[0,0,0]], sr = 0, sc = 0, newColor = 2
 Output: [[2,2,2],[2,2,2]]
 ```

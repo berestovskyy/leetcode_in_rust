@@ -13,7 +13,7 @@ Assuming Alice and Bob play optimally, return `true` if Alice wins the game, or 
 
 **Example 1:**
 
-```bash
+```Rust
 Input: piles = [5,3,4,5]
 Output: true
 ```
@@ -28,7 +28,7 @@ Explanation:
 
 **Example 2:**
 
-```bash
+```Rust
 Input: piles = [3,7,2,3]
 Output: true
 ```

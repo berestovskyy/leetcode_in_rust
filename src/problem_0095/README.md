@@ -7,14 +7,14 @@ Given an integer `n`, return all the structurally unique BST's (binary search tr
 
 **Example 1:**
 
-```bash
+```Rust
 Input: n = 3
 Output: [[1,null,2,null,3],[1,null,3,2],[2,1,3],[3,1,null,null,2],[3,2,null,1]]
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: n = 1
 Output: [[1]]
 ```

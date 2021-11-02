@@ -19,14 +19,14 @@ You must decrease the overall operation steps as much as possible.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: nums = [1,3,5]
 Output: 1
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: nums = [2,2,2,0,1]
 Output: 0
 ```

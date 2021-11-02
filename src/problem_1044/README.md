@@ -9,14 +9,14 @@ Return any duplicated substring that has the longest possible length. If `s` doe
 
 **Example 1:**
 
-```bash
+```Rust
 Input: s = "banana"
 Output: "ana"
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: s = "abcd"
 Output: ""
 ```

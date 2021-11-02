@@ -7,14 +7,14 @@ Write a function that reverses a string. The input string is given as an array o
 
 **Example 1:**
 
-```bash
+```Rust
 Input: s = ['h','e','l','l','o']
 Output: ['o','l','l','e','h']
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: s = ['H','a','n','n','a','h']
 Output: ['h','a','n','n','a','H']
 ```

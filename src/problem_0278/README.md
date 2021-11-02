@@ -11,14 +11,14 @@ You are given an API bool `isBadVersion(version)` which returns whether version 
 
 **Example 1:**
 
-```bash
+```Rust
 Input: n = 5, bad = 4
 Output: 4
 ```
 
 Explanation:
 
-```bash
+```Rust
 call isBadVersion(3) -> false
 call isBadVersion(5) -> true
 call isBadVersion(4) -> true
@@ -28,7 +28,7 @@ Then 4 is the first bad version.
 
 **Example 2:**
 
-```bash
+```Rust
 Input: n = 1, bad = 1
 Output: 1
 ```

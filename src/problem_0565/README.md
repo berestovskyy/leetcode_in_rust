@@ -15,7 +15,7 @@ Return the longest length of a set `s[k]`.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: nums = [5,4,0,3,1,6,2]
 Output: 4
 ```
@@ -28,7 +28,7 @@ One of the longest sets `s[k]`:
 
 **Example 2:**
 
-```bash
+```Rust
 Input: nums = [0,1,2]
 Output: 1
 ```

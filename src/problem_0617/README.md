@@ -13,14 +13,14 @@ Note: The merging process must start from the root nodes of both trees.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: root1 = [1,3,2,5], root2 = [2,1,3,null,4,null,7]
 Output: [3,4,5,5,4,null,7]
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: root1 = [1], root2 = [1,2]
 Output: [2,2]
 ```

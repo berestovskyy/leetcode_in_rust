@@ -9,7 +9,7 @@ A region is captured by flipping all `'O'`s into `'X'`s in that surrounded regio
 
 **Example 1:**
 
-```bash
+```Rust
 Input: board = [["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]
 Output: [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]
 ```
@@ -18,7 +18,7 @@ Explanation: Surrounded regions should not be on the border, which means that an
 
 **Example 2:**
 
-```bash
+```Rust
 Input: board = [["X"]]
 Output: [["X"]]
 ```

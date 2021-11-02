@@ -5,7 +5,7 @@ See [on LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-link
 
 You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
 
-```bash
+```Rust
 struct Node {
   int val;
   Node *left;
@@ -20,7 +20,7 @@ Initially, all next pointers are set to `NULL`.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: root = [1,2,3,4,5,6,7]
 Output: [1,#,2,3,#,4,5,6,7,#]
 ```
@@ -29,7 +29,7 @@ Explanation: Given the above perfect binary tree (Figure A), your function shoul
 
 **Example 2:**
 
-```bash
+```Rust
 Input: root = []
 Output: []
 ```

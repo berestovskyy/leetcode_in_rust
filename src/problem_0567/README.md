@@ -9,7 +9,7 @@ In other words, return `true` if one of `s1`'s permutations is the substring of 
 
 **Example 1:**
 
-```bash
+```Rust
 Input: s1 = "ab", s2 = "eidbaooo"
 Output: true
 ```
@@ -18,7 +18,7 @@ Explanation: `s2` contains one permutation of `s1` (`"ba"`).
 
 **Example 2:**
 
-```bash
+```Rust
 Input: s1 = "ab", s2 = "eidboaoo"
 Output: false
 ```

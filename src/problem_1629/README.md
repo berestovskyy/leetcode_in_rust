@@ -15,7 +15,7 @@ Return the key of the keypress that had the longest duration. If there are multi
 
 **Example 1:**
 
-```bash
+```Rust
 Input: releaseTimes = [9,29,49,50], keysPressed = "cbcd"
 Output: "c"
 ```
@@ -33,7 +33,7 @@ The longest of these was the keypress for `'b'` and the second keypress for `'c'
 
 **Example 2:**
 
-```bash
+```Rust
 Input: releaseTimes = [12,23,36,46,62], keysPressed = "spuda"
 Output: "a"
 ```

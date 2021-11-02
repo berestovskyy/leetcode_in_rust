@@ -16,7 +16,7 @@ Only the filled cells need to be validated according to the mentioned rules.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: board = 
 [['5','3','.','.','7','.','.','.','.']
 ,['6','.','.','1','9','5','.','.','.']
@@ -32,7 +32,7 @@ Output: true
 
 **Example 2:**
 
-```bash
+```Rust
 Input: board = 
 [['8','3','.','.','7','.','.','.','.']
 ,['6','.','.','1','9','5','.','.','.']

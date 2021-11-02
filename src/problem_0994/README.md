@@ -15,14 +15,14 @@ Return the minimum number of minutes that must elapse until no cell has a fresh 
 
 **Example 1:**
 
-```bash
+```Rust
 Input: grid = [[2,1,1],[1,1,0],[0,1,1]]
 Output: 4
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: grid = [[2,1,1],[0,1,1],[1,0,1]]
 Output: -1
 ```
@@ -31,7 +31,7 @@ Explanation: The orange in the bottom left corner (row 2, column 0) is never rot
 
 **Example 3:**
 
-```bash
+```Rust
 Input: grid = [[0,2]]
 Output: 0
 ```

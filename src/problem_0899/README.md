@@ -9,7 +9,7 @@ Return the lexicographically smallest string you could have after applying the m
 
 **Example 1:**
 
-```bash
+```Rust
 Input: s = "cba", k = 1
 Output: "acb"
 ```
@@ -21,7 +21,7 @@ Explanation:
 
 **Example 2:**
 
-```bash
+```Rust
 Input: s = "baaca", k = 3
 Output: "aaabc"
 ```

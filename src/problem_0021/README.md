@@ -7,21 +7,21 @@ Merge two sorted linked lists and return it as a sorted list. The list should be
 
 **Example 1:**
 
-```bash
+```Rust
 Input: l1 = [1,2,4], l2 = [1,3,4]
 Output: [1,1,2,3,4,4]
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: l1 = [], l2 = []
 Output: []
 ```
 
 **Example 3:**
 
-```bash
+```Rust
 Input: l1 = [], l2 = [0]
 Output: [0]
 ```

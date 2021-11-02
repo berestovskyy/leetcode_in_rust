@@ -15,7 +15,7 @@ Implement the `MinStack` class:
 
 **Example 1:**
 
-```bash
+```Rust
 Input
 ["MinStack","push","push","push","getMin","pop","top","getMin"]
 [[],[-2],[0],[-3],[],[],[],[]]

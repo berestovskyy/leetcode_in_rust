@@ -18,21 +18,21 @@ Note: You are not allowed to reconstruct the tree.
 
 **Example 1:**
 
-```bash
+```Rust
 Input: preorder = "9,3,4,#,#,1,#,#,2,#,6,#,#"
 Output: true
 ```
 
 **Example 2:**
 
-```bash
+```Rust
 Input: preorder = "1,#"
 Output: false
 ```
 
 **Example 3:**
 
-```bash
+```Rust
 Input: preorder = "9,#,#,1"
 Output: false
 ```
