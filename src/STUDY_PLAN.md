@@ -30,3 +30,4 @@ Study Plan: Algorithm I
 22. [Problem 77. Combinations (Medium)](problem_0077/)
 23. [Problem 46. Permutations (Medium)](problem_0046/)
 24. [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+25. [Problem 70. Climbing Stairs (Easy)](problem_0070/)
