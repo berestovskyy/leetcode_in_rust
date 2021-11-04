@@ -29,3 +29,4 @@ Daily Problems
 21. 2021-11-01 [Problem 130. Surrounded Regions (Medium)](problem_0130/)
 22. 2021-11-02 [Problem 980. Unique Paths III (Hard)](problem_0980/)
 23. 2021-11-03 [Problem 129. Sum Root to Leaf Numbers (Medium)](problem_0129/)
+24. 2021-11-04 [Problem 404. Sum of Left Leaves (Easy)](problem_0404/)
