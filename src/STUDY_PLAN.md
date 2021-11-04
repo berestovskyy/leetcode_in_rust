@@ -32,3 +32,4 @@ Study Plan: Algorithm I
 24. [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
 25. [Problem 70. Climbing Stairs (Easy)](problem_0070/)
 26. [Problem 198. House Robber (Medium)](problem_0198/)
+27. [Problem 231. Power of Two (Easy)](problem_0231/)
