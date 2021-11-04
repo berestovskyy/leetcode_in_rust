@@ -33,3 +33,4 @@ Study Plan: Algorithm I
 25. [Problem 70. Climbing Stairs (Easy)](problem_0070/)
 26. [Problem 198. House Robber (Medium)](problem_0198/)
 27. [Problem 231. Power of Two (Easy)](problem_0231/)
+28. [Problem 191. Number of 1 Bits (Easy)](problem_0191/)
