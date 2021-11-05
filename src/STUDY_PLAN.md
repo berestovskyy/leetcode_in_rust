@@ -36,3 +36,4 @@ Study Plan: Algorithm I
 28. [Problem 231. Power of Two (Easy)](problem_0231/)
 29. [Problem 191. Number of 1 Bits (Easy)](problem_0191/)
 30. [Problem 190. Reverse Bits (Easy)](problem_0190/)
+31. [Problem 136. Single Number (Easy)](problem_0136/)
