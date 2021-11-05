@@ -3,8 +3,8 @@
 // https://leetcode.com/problems/arranging-coins/
 //
 // 0ms (100%)/2.1MB (50%)
-// Space complexity: O()
-// Runtime complexity: O()
+// Space complexity: O(1)
+// Runtime complexity: O(1)
 //
 // test problem_0441::tests::single_1k                ... bench:           0 ns/iter (+/- 0)
 // test problem_0441::tests::single_1k_2              ... bench:      16,054 ns/iter (+/- 1,054)
