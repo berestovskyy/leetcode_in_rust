@@ -7,6 +7,7 @@
 // Runtime complexity: O()
 //
 // test problem_0441::tests::single_1k                ... bench:           0 ns/iter (+/- 0)
+// test problem_0441::tests::single_1k_2              ... bench:      16,054 ns/iter (+/- 1,054)
 //
 
 struct Solution {}
@@ -23,6 +24,17 @@ impl Solution {
         // k = (-1 +- sqrt(8n + 1))/2, k > 0
         // k = sqrt(8n + 1)/2 - 1/2
         ((8.0 * n as f64 + 1.0).sqrt() / 2.0 - 1.0 / 2.0) as i32
+    }
+}
+
+impl Solution {
+    pub fn arrange_coins_2(mut n: i32) -> i32 {
+        let mut k = 1;
+        while n - k >= k + 1 {
+            n -= k;
+            k += 1;
+        }
+        k
     }
 }
 
@@ -48,6 +60,15 @@ mod tests {
         b.iter(|| {
             for _ in 0..1_000 {
                 Solution::arrange_coins(i32::MAX);
+            }
+        });
+    }
+
+    #[bench]
+    fn single_1k_2(b: &mut Bencher) {
+        b.iter(|| {
+            for _ in 0..1_000 {
+                Solution::arrange_coins_2(i32::MAX);
             }
         });
     }
