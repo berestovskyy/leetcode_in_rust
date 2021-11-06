@@ -31,3 +31,4 @@ Daily Problems
 23. 2021-11-03 [Problem 129. Sum Root to Leaf Numbers (Medium)](problem_0129/)
 24. 2021-11-04 [Problem 404. Sum of Left Leaves (Easy)](problem_0404/)
 25. 2021-11-05 [Problem 441. Arranging Coins (Easy)](problem_0441/)
+26. 2021-11-06 [Problem 260. Single Number III (Medium)](problem_0260/)
