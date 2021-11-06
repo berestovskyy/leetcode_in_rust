@@ -26,7 +26,7 @@ All Solved Problems
 14. `100%` [Problem 129. Sum Root to Leaf Numbers (Medium)](problem_0129/) \
     TODO: tree tests
 15. `100%` [Problem 130. Surrounded Regions (Medium)](problem_0130/)
-w16. `100%` [Problem 136. Single Number (Easy)](problem_0136/)
+16. `100%` [Problem 136. Single Number (Easy)](problem_0136/)
 17. `100%` [Problem 153. Find Minimum in Rotated Sorted Array (Medium)](problem_0153/)
 18. `100%` [Problem 154. Find Minimum in Rotated Sorted Array II (Hard)](problem_0154/)
 19. `98%` [Problem 155. Min Stack (Easy)](problem_0155/)
@@ -66,13 +66,14 @@ w16. `100%` [Problem 136. Single Number (Easy)](problem_0136/)
 47. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
 48. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-49. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+49. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+50. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-50. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-51. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-52. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-53. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-54. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-55. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+51. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+52. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+53. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+54. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+55. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+56. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-56. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+57. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
