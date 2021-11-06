@@ -63,17 +63,18 @@ All Solved Problems
 44. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
 45. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
 46. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-47. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
-48. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+47. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
+48. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+49. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-49. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
-50. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+50. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+51. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-51. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-52. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-53. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-54. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-55. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-56. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+52. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+53. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+54. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+55. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+56. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+57. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-57. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+58. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
