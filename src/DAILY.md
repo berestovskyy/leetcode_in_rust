@@ -37,5 +37,5 @@ Daily Problems
 29. 2021-11-04 [Problem 404. Sum of Left Leaves (Easy)](problem_0404/)
 30. 2021-11-05 [Problem 441. Arranging Coins (Easy)](problem_0441/)
 31. 2021-11-06 [Problem 260. Single Number III (Medium)](problem_0260/)
-32. 2021-11-07 TODO:
+32. 2021-11-07 [Problem 43. Multiply Strings (Medium)](problem_0043/)
 33. 2021-11-08 [Problem 96. Unique Binary Search Trees (Medium)](problem_0096/)
