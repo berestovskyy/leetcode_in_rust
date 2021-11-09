@@ -81,4 +81,5 @@ All Solved Problems
 60. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
 61. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-62. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+62. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+63. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
