@@ -75,11 +75,13 @@ All Solved Problems
 55. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
 56. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-57. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-58. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-59. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-60. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-61. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+57. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
+    TODO: performance
+58. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+59. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+60. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+61. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+62. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-62. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-63. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+63. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+64. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
