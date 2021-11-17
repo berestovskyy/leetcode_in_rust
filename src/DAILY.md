@@ -41,3 +41,4 @@ Daily Problems
 33. 2021-11-07 [Problem 43. Multiply Strings (Medium)](problem_0043/)
 34. 2021-11-08 [Problem 96. Unique Binary Search Trees (Medium)](problem_0096/)
 35. 2021-11-09 [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+36. 2021-11-17 [Problem 62. Unique Paths (Medium)](problem_0062/)

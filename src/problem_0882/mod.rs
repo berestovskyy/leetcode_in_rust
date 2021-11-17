@@ -15,10 +15,10 @@ impl Solution {
     pub fn reachable_nodes(edges: Vec<Vec<i32>>, max_moves: i32, n: i32) -> i32 {
         use std::collections::{BinaryHeap, HashMap};
 
-        let mut e = HashMap::<i32, HashMap<i32, i32>>::new();
+        let mut hm = HashMap::<i32, HashMap<i32, i32>>::new();
         for v in &edges {
-            e.entry(v[0]).or_default().insert(v[1], v[2]);
-            e.entry(v[1]).or_default().insert(v[0], v[2]);
+            hm.entry(v[0]).or_default().insert(v[1], v[2]);
+            hm.entry(v[1]).or_default().insert(v[0], v[2]);
         }
         let mut heap = BinaryHeap::<(i32, i32)>::new();
         heap.push((max_moves, 0));
@@ -27,10 +27,10 @@ impl Solution {
             let x = heap.pop().unwrap();
             let moves = x.0;
             let i = x.1;
-            if !visited.contains_key(&i) {
-                visited.insert(i, moves);
-                for j in e.get(&i).unwrap_or(&HashMap::<i32, i32>::new()).keys() {
-                    let moves2 = moves - e.get(&i).unwrap().get(j).unwrap() - 1;
+            if let std::collections::hash_map::Entry::Vacant(e) = visited.entry(i) {
+                e.insert(moves);
+                for j in hm.get(&i).unwrap_or(&HashMap::<i32, i32>::new()).keys() {
+                    let moves2 = moves - hm.get(&i).unwrap().get(j).unwrap() - 1;
                     if !visited.contains_key(j) && moves2 >= 0 {
                         heap.push((moves2, *j));
                     }
