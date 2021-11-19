@@ -55,7 +55,7 @@ mod tests {
 
     #[bench]
     fn vec_100(b: &mut Bencher) {
-        let mut v = Vec::with_capacity(1_000);
+        let mut v = Vec::with_capacity(100);
         for i in 0..100 {
             v.push(i);
         }
