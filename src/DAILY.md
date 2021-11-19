@@ -42,4 +42,5 @@ Daily Problems
 34. 2021-11-08 [Problem 96. Unique Binary Search Trees (Medium)](problem_0096/)
 35. 2021-11-09 [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
 36. 2021-11-17 [Problem 62. Unique Paths (Medium)](problem_0062/)
-37. 2021-11-19 [Problem 461. Hamming Distance (Easy)](problem_0461/)
+37. 2021-11-18 [Problem 448. Find All Numbers Disappeared in an Array (Easy)](problem_0448/)
+38. 2021-11-19 [Problem 461. Hamming Distance (Easy)](problem_0461/)
