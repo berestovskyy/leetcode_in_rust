@@ -61,32 +61,33 @@ All Solved Problems
 42. `97%` [Problem 446. Arithmetic Slices II - Subsequence (Hard)](problem_0446/)
 43. `90%` [Problem 448. Find All Numbers Disappeared in an Array (Easy)](problem_0448/)
 44. `100%` [Problem 461. Hamming Distance (Easy)](problem_0461/)
-45. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
-46. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
-47. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
-48. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
-49. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
-50. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
-51. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
+45. `100%` [Problem 540. Single Element in a Sorted Array (Medium)](problem_0540/)
+46. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
+47. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
+48. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
+49. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
+50. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
+51. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
+52. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
     TODO: tree tests
-52. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
-53. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
-54. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-55. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
-56. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
-57. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+53. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
+54. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
+55. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
+56. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
+57. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+58. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-58. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
-59. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+59. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+60. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-60. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-61. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
+61. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+62. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
     TODO: performance
-62. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-63. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-64. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-65. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-66. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+63. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+64. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+65. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+66. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+67. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-67. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-68. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+68. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+69. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
