@@ -76,22 +76,23 @@ All Solved Problems
 55. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
 56. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
 57. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-58. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
-59. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
-60. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+58. `58%` [Problem 739. Daily Temperatures (Medium)](problem_0739/)
+59. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
+60. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+61. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-61. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
-62. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+62. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+63. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-63. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-64. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
+64. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+65. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
     TODO: performance
-65. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-66. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-67. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-68. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-69. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+66. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+67. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+68. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+69. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+70. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-70. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-71. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-72. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+71. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+72. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+73. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
