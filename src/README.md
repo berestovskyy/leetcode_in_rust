@@ -91,4 +91,5 @@ All Solved Problems
 68. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
 69. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-70. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+70. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+71. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)

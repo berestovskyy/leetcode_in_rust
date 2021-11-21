@@ -2,7 +2,7 @@
 // Problem 1178. Number of Valid Words for Each Puzzle (Hard)
 // https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 //
-// 32ms (100%)/10.4MB (61)
+// 32ms (100%)/10.4MB (61%)
 // Space complexity: O(n)
 // Runtime complexity: O(n²)
 //
