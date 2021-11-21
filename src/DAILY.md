@@ -44,3 +44,4 @@ Daily Problems
 36. 2021-11-17 [Problem 62. Unique Paths (Medium)](problem_0062/)
 37. 2021-11-18 [Problem 448. Find All Numbers Disappeared in an Array (Easy)](problem_0448/)
 38. 2021-11-19 [Problem 461. Hamming Distance (Easy)](problem_0461/)
+39. 2021-11-21 [Problem 106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)](problem_0106/)
