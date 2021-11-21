@@ -18,8 +18,8 @@ impl Solution {
             nums[n_idx] = nums[n_idx].min(-nums[n_idx]);
         }
         let mut res = vec![];
-        for i in 0..nums.len() {
-            if nums[i] > 0 {
+        for (i, n) in nums.iter().enumerate() {
+            if *n > 0 {
                 res.push(i as i32 + 1);
             }
         }
