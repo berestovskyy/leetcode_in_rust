@@ -10,6 +10,7 @@ mod problem_0035;
 mod problem_0036;
 mod problem_0043;
 mod problem_0046;
+mod problem_0054;
 mod problem_0062;
 mod problem_0070;
 mod problem_0075;
