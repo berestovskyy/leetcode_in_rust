@@ -55,52 +55,53 @@ All Solved Problems
     TODO: slow tests?
 37. `100%` [Problem 260. Single Number III (Medium)](problem_0260/)
 38. `100%` [Problem 278. First Bad Version (Easy)](problem_0278/)
-39. `75%` [Problem 283. Move Zeroes (Easy)](problem_0283/)
-40. `100%` [Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)](problem_0331/)
-41. `94%` [Problem 344. Reverse String (Easy)](problem_0344/)
-42. `100%` [Problem 350. Intersection of Two Arrays II (Easy)](problem_0350/)
-43. `89%` [Problem 368. Largest Divisible Subset (Medium)](problem_0368/)
-44. `100%` [Problem 404. Sum of Left Leaves (Easy)](problem_0404/)
-45. `%` [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/) \
+39. `80%` [Problem 282. Expression Add Operators (Hard)](problem_0282/)
+40. `75%` [Problem 283. Move Zeroes (Easy)](problem_0283/)
+41. `100%` [Problem 331. Verify Preorder Serialization of a Binary Tree (Medium)](problem_0331/)
+42. `94%` [Problem 344. Reverse String (Easy)](problem_0344/)
+43. `100%` [Problem 350. Intersection of Two Arrays II (Easy)](problem_0350/)
+44. `89%` [Problem 368. Largest Divisible Subset (Medium)](problem_0368/)
+45. `100%` [Problem 404. Sum of Left Leaves (Easy)](problem_0404/)
+46. `%` [Problem 430. Flatten a Multilevel Doubly Linked List (Medium)](problem_0430/) \
     TODO: no Rust solution :(
-46. `100%` [Problem 441. Arranging Coins (Easy)](problem_0441/)
-47. `97%` [Problem 446. Arithmetic Slices II - Subsequence (Hard)](problem_0446/)
-48. `90%` [Problem 448. Find All Numbers Disappeared in an Array (Easy)](problem_0448/)
-49. `100%` [Problem 461. Hamming Distance (Easy)](problem_0461/)
-50. `100%` [Problem 540. Single Element in a Sorted Array (Medium)](problem_0540/)
-51. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
-52. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
-53. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
-54. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
-55. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
-56. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
-57. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
+47. `100%` [Problem 441. Arranging Coins (Easy)](problem_0441/)
+48. `97%` [Problem 446. Arithmetic Slices II - Subsequence (Hard)](problem_0446/)
+49. `90%` [Problem 448. Find All Numbers Disappeared in an Array (Easy)](problem_0448/)
+50. `100%` [Problem 461. Hamming Distance (Easy)](problem_0461/)
+51. `100%` [Problem 540. Single Element in a Sorted Array (Medium)](problem_0540/)
+52. `100%` [Problem 542. 01 Matrix (Medium)](problem_0542/)
+53. `100%` [Problem 557. Reverse Words in a String III (Easy)](problem_0557/)
+54. `100%` [Problem 565. Array Nesting (Medium)](problem_0565/)
+55. `100%` [Problem 567. Permutation in String (Medium)](problem_0567/)
+56. `100%` [Problem 587. Erect the Fence (Hard)](problem_0587/)
+57. `100%` [Problem 598. Range Addition II (Easy)](problem_0598/)
+58. `94%` [Problem 617. Merge Two Binary Trees (Easy)](problem_0617/) \
     TODO: tree tests
-58. `98%` [Problem 668. Kth Smallest Number in Multiplication Table (Hard)](problem_0668/)
-59. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
-60. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
-61. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
-62. `58%` [Problem 739. Daily Temperatures (Medium)](problem_0739/)
-63. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
-64. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
-65. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+59. `98%` [Problem 668. Kth Smallest Number in Multiplication Table (Hard)](problem_0668/)
+60. `100%` [Problem 695. Max Area of Island (Medium)](problem_0695/)
+61. `100%` [Problem 704. Binary Search (Easy)](problem_0704/)
+62. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
+63. `58%` [Problem 739. Daily Temperatures (Medium)](problem_0739/)
+64. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
+65. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+66. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-66. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
-67. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+67. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+68. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-68. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-69. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
+69. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+70. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
     TODO: performance
-70. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-71. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
-72. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-73. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
-74. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-75. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-76. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+71. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+72. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
+73. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+74. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
+75. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+76. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+77. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-77. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-78. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
-79. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-80. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-81. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+78. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+79. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
+80. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+81. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+82. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
