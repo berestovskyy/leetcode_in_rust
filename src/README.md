@@ -96,6 +96,7 @@ All Solved Problems
 72. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
 73. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-74. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-75. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-76. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+74. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
+75. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+76. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+77. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
