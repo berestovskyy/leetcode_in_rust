@@ -90,13 +90,14 @@ All Solved Problems
 67. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
     TODO: performance
 68. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-69. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-70. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-71. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-72. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+69. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
+70. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+71. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+72. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+73. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-73. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-74. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
-75. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-76. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-77. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+74. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+75. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
+76. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+77. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+78. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
