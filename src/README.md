@@ -96,14 +96,15 @@ All Solved Problems
     TODO: performance
 72. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
 73. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
-74. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-75. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
-76. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-77. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-78. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+74. `100%` [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
+75. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+76. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
+77. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+78. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+79. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-79. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-80. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
-81. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-82. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-83. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+80. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+81. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
+82. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+83. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+84. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)

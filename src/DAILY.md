@@ -60,3 +60,4 @@ Daily Problems
 52. 2021-11-20 [Problem 540. Single Element in a Sorted Array (Medium)](problem_0540/)
 53. 2021-11-21 [Problem 106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)](problem_0106/)
 54. 2021-11-22 [Problem 450. Delete Node in a BST (Medium)](problem_0450/)
+55. 2021-11-23 [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
