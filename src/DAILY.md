@@ -61,3 +61,4 @@ Daily Problems
 53. 2021-11-21 [Problem 106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)](problem_0106/)
 54. 2021-11-22 [Problem 450. Delete Node in a BST (Medium)](problem_0450/)
 55. 2021-11-23 [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
+56. 2021-11-24 [Problem 986. Interval List Intersections (Medium)](problem_0986/)
