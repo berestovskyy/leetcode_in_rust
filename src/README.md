@@ -112,5 +112,6 @@ All Solved Problems
 86. `100%` [Problem 1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](problem_1239/)
 87. `100%` [Problem 1275. Find Winner on a Tic Tac Toe Game (Easy)](problem_1275/)
 88. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-89. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-90. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+89. `100%` [Problem 1328. Break a Palindrome (Medium)](problem_1328/)
+90. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+91. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)

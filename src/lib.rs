@@ -90,6 +90,7 @@ mod problem_1189;
 mod problem_1239;
 mod problem_1275;
 mod problem_1286;
+mod problem_1328;
 mod problem_1413;
 mod problem_1629;
 
