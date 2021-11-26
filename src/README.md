@@ -108,6 +108,7 @@ All Solved Problems
     TODO: review once there are enough submissions
 83. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
 84. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
-85. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-86. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-87. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+85. `100%` [Problem 1275. Find Winner on a Tic Tac Toe Game (Easy)](problem_1275/)
+86. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+87. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+88. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
