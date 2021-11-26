@@ -63,3 +63,4 @@ Daily Problems
 55. 2021-11-23 [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
 56. 2021-11-24 [Problem 986. Interval List Intersections (Medium)](problem_0986/)
 57. 2021-11-25 [Problem 53. Maximum Subarray (Easy)](problem_0053/)
+58. 2021-11-26 [Problem 35. Search Insert Position (Easy)](problem_0035/)
