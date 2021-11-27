@@ -6,7 +6,8 @@
 // Space complexity: O(1)
 // Runtime complexity: O(1)
 //
-// TODO: test problem_0231::tests::single_1k                ... bench:           0 ns/iter (+/- 0)
+// TODO: can't increase # of iteration due to a very long execution for some reason
+// test problem_0231::tests::single_1k                ... bench:           0 ns/iter (+/- 0)
 //
 
 struct Solution {}
@@ -33,6 +34,7 @@ mod tests {
 
     #[bench]
     fn single_1k(b: &mut Bencher) {
+        // TODO: can't increase due to a very long execution for some reason
         for i in 0..10 {
             b.iter(|| Solution::is_power_of_two(i));
         }
