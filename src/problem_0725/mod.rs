@@ -37,9 +37,9 @@ impl Solution {
             n += 1;
         }
         let mut res = vec![None; k];
-        for i in 0..k {
-            res[i] = head;
-            let mut it = &mut res[i];
+        for (i, r) in res.iter_mut().enumerate() {
+            *r = head;
+            let mut it = r;
             for _ in 0..if i < n % k { n / k + 1 } else { n / k } {
                 if let Some(node) = it {
                     it = &mut node.next;
