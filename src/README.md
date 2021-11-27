@@ -89,32 +89,33 @@ All Solved Problems
 67. `100%` [Problem 733. Flood Fill (Easy)](problem_0733/)
 68. `58%` [Problem 739. Daily Temperatures (Medium)](problem_0739/)
 69. `82%` [Problem 764. Largest Plus Sign (Medium)](problem_0764/)
-70. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
-71. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
+70. `100%` [Problem 782. Transform to Chessboard (Hard)](problem_0782/)
+71. `94%` [Problem 784. Letter Case Permutation (Medium)](problem_0784/)
+72. `65%` [Problem 834. Sum of Distances in Tree (Hard)](problem_0834/) \
     TODO: performance
-72. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
-73. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
+73. `93%` [Problem 848. Shifting Letters (Medium)](problem_0848/)
+74. `100%` [Problem 876. Middle of the Linked List (Easy)](problem_0876/) \
     TODO: list tests
-74. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
-75. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
+75. `100%` [Problem 877. Stone Game (Medium)](problem_0877/)
+76. `43%` [Problem 882. Reachable Nodes In Subdivided Graph (Hard)](problem_0882/) \
     TODO: performance
-76. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
-77. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
-78. `100%` [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
-79. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
-80. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
-81. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
-82. `42%` [Problem 986. Interval List Intersections (Medium)](problem_0986/)
-83. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
-84. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
+77. `100%` [Problem 899. Orderly Queue (Hard)](problem_0899/)
+78. `100%` [Problem 917. Reverse Only Letters (Easy)](problem_0917/)
+79. `100%` [Problem 952. Largest Component Size by Common Factor (Hard)](problem_0952/)
+80. `96%` [Problem 977. Squares of a Sorted Array (Easy)](problem_0977/)
+81. `50%` [Problem 978. Longest Turbulent Subarray (Medium)](problem_0978/)
+82. `100%` [Problem 980. Unique Paths III (Hard)](problem_0980/)
+83. `42%` [Problem 986. Interval List Intersections (Medium)](problem_0986/)
+84. `100%` [Problem 994. Rotting Oranges (Medium)](problem_0994/)
+85. `100%` [Problem 1044. Longest Duplicate Substring (Hard)](problem_1044/) \
     TODO: review once there are enough submissions
-85. `100%` [Problem 1137. N-th Tribonacci Number (Easy)](problem_1137/)
-86. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
-87. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
-88. `100%` [Problem 1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](problem_1239/)
-89. `100%` [Problem 1275. Find Winner on a Tic Tac Toe Game (Easy)](problem_1275/)
-90. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
-91. `100%` [Problem 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)](problem_1293/)
-92. `100%` [Problem 1328. Break a Palindrome (Medium)](problem_1328/)
-93. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
-94. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
+86. `100%` [Problem 1137. N-th Tribonacci Number (Easy)](problem_1137/)
+87. `100%` [Problem 1178. Number of Valid Words for Each Puzzle (Hard)](problem_1178/)
+88. `100%` [Problem 1189. Maximum Number of Balloons (Easy)](problem_1189/)
+89. `100%` [Problem 1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](problem_1239/)
+90. `100%` [Problem 1275. Find Winner on a Tic Tac Toe Game (Easy)](problem_1275/)
+91. `87%` [Problem 1286. Iterator for Combination (Medium)](problem_1286/)
+92. `100%` [Problem 1293. Shortest Path in a Grid with Obstacles Elimination (Hard)](problem_1293/)
+93. `100%` [Problem 1328. Break a Palindrome (Medium)](problem_1328/)
+94. `100%` [Problem 1413. Minimum Value to Get Positive Step by Step Sum (Easy)](problem_1413/)
+95. `100%` [Problem 1629. Slowest Key (Easy)](problem_1629/)
