@@ -80,6 +80,7 @@ mod problem_0877;
 mod problem_0882;
 mod problem_0899;
 mod problem_0917;
+mod problem_0922;
 mod problem_0929;
 mod problem_0952;
 mod problem_0977;
