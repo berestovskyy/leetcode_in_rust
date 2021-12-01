@@ -1,6 +1,6 @@
 //
 // Problem 721. Accounts Merge (Medium)
-// See [on LeetCode](https://leetcode.com/problems/split-linked-list-in-parts/).
+// See [on LeetCode](https://leetcode.com/problems/accounts-merge/).
 //
 // 36ms (46%)/4.3MB (47%)
 // Space complexity: O(n)
