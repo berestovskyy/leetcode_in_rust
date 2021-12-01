@@ -13,7 +13,7 @@ struct Solution {}
 
 impl Solution {
     pub fn all_paths_source_target(graph: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
-        fn dfs(g: &Vec<Vec<i32>>, p: Vec<i32>, r: &mut Vec<Vec<i32>>, i: i32, t: i32) {
+        fn dfs(g: &[Vec<i32>], p: Vec<i32>, r: &mut Vec<Vec<i32>>, i: i32, t: i32) {
             match i == t {
                 true => r.push(p),
                 false => {
