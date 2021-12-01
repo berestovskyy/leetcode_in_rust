@@ -78,4 +78,5 @@ Daily Problems
 70. 2021-11-26 [Problem 35. Search Insert Position (Easy)](problem_0035/)
 71. 2021-11-27 [Problem 238. Product of Array Except Self (Medium)](problem_0238/)
 72. 2021-11-28 [Problem 797. All Paths From Source to Target (Medium)](problem_0797/)
-73. 2021-12-01 [Problem 198. House Robber (Medium)](problem_0198/)
+73. 2021-11-29 [Problem 721. Accounts Merge (Medium)](problem_0721/)
+74. 2021-12-01 [Problem 198. House Robber (Medium)](problem_0198/)
