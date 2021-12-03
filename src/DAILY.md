@@ -81,4 +81,5 @@ Daily Problems
 73. 2021-11-29 [Problem 721. Accounts Merge (Medium)](problem_0721/)
 74. 2021-11-30 [Problem 85. Maximal Rectangle (Hard)](problem_0085/)
 75. 2021-12-01 [Problem 198. House Robber (Medium)](problem_0198/)
-76. 2021-12-03 [Problem 152. Maximum Product Subarray (Medium)](problem_0152/)
+76. 2021-12-02 [Problem 328. Odd Even Linked List (Medium)](problem_0328/)
+77. 2021-12-03 [Problem 152. Maximum Product Subarray (Medium)](problem_0152/)
