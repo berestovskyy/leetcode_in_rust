@@ -27,6 +27,7 @@ mod problem_0122;
 mod problem_0129;
 mod problem_0130;
 mod problem_0136;
+mod problem_0152;
 mod problem_0153;
 mod problem_0154;
 mod problem_0155;
