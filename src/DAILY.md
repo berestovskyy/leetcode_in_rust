@@ -83,3 +83,4 @@ Daily Problems
 75. 2021-12-01 [Problem 198. House Robber (Medium)](problem_0198/)
 76. 2021-12-02 [Problem 328. Odd Even Linked List (Medium)](problem_0328/)
 77. 2021-12-03 [Problem 152. Maximum Product Subarray (Medium)](problem_0152/)
+78. 2021-12-06 [Problem 1217. Minimum Cost to Move Chips to The Same Position (Easy)](problem_01217/)
