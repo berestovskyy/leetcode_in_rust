@@ -49,6 +49,7 @@ mod problem_0282;
 mod problem_0283;
 mod problem_0328;
 mod problem_0331;
+mod problem_0337;
 mod problem_0344;
 mod problem_0350;
 mod problem_0368;
